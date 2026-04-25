@@ -1,2 +1,2 @@
-console.log("Inicio");
+console.log("OTro");
 console.log("cambio1");
